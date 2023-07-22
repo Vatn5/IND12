@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IND 12</string>
+    <string name="auri">Chacao\'s Pizza</string>
+    <string name="ubicacion">Dirección</string>
+    <string name="menu">Menu</string>
+    <string name="pizza_1">Pizza 1</string>
+    <string name="tomate_cherry">Tomate Cherry</string>
+    <string name="tocino">Tocino</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="churrasco">Churrasco</string>
+    <string name="cordillerana">Cordillerana</string>
+    <string name="italiana">Italiana</string>
+</resources>
